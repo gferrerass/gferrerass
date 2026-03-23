@@ -8,7 +8,7 @@ I’m all about clean engineering, high-performance code, and building things th
 
 ### 🚀 Featured Projects
 
-#### 🎭 [Facial Anonymization Pipeline](https://github.com/guilleferreras/thesis)
+#### 🎭 [Facial Anonymization Pipeline](https://github.com/gferrerass/facial_anonymization.git)
 My International Thesis focused on balancing privacy and data utility.
 * Uses **YOLO**, **VLMs**, and **Z-Image Turbo** to anonymize faces while keeping the "vibe" and semantic meaning of the scene intact.
 * Features automatic parameter fine-tuning and evaluation.
@@ -16,7 +16,7 @@ My International Thesis focused on balancing privacy and data utility.
 
 ![Facial anonymization project](images/facial_anom.jpg)
 
-#### 🧬 Sperm Splash
+#### 🧬 [Sperm Splash](https://github.com/gferrerass/cg)
 A cheeky fast-paced, first-person browser game built with **JavaScript** and **Three.js**. 
 * **The Twist:** You control a sperm cell on a high-stakes mission to find the egg.
 * 2 Levels: Obstacle Dodging and First-person shooter.
