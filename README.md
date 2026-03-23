@@ -1,31 +1,50 @@
-# Hi there, I'm Guillermo 👋
+# Hey! I'm Guillermo 👋
 
-I am a **Computer Science Graduate** and **Software Engineer** specializing in **Computer Vision**, **Machine Learning**, and **Multimodal AI**. My focus is on building scalable, automated solutions that bridge the gap between complex research and real-world applications.
+I’m a **Computer Science Graduate** and **Software Engineer** who loves turning complex AI research into real-world, user-friendly products. My playground is at the intersection of **Computer Vision**, **Machine Learning**, and **Multimodal systems**.
 
-### 🚀 Technical Spotlight
-* **Computer Vision & AI:** YOLO, PyTorch, Diffusion Models (Z-Image Turbo), OpenCV, and Multimodal Generative AI.
-* **Mobile & Web:** Android (Kotlin, Jetpack Compose, MVVM/Clean Architecture), React, Next.js, and Tailwind CSS.
-* **Tools:** ComfyUI, Docker, AWS, GCP, and Firebase.
+I’m all about clean engineering, high-performance code, and building things that actually solve problems - while having a bit of fun along the way :)
 
 ---
 
-### 🛠️ Featured Projects
+### 🚀 Featured Projects
 
-#### [Facial Anonymization Pipeline]) (International Thesis)
-Designed an end-to-end computer vision pipeline using **YOLO** and **Diffusion Models** to balance user privacy with semantic preservation. 
-* Includes automatic parameter fine-tuning and Vision-Language Models (VLMs).
-* Currently co-authoring a research paper based on these results.
+#### 🎭 [Facial Anonymization Pipeline](https://github.com/guilleferreras/thesis)
+My International Thesis focused on balancing privacy and data utility.
+* Uses **YOLO**, **VLMs**, and **Z-Image Turbo** to anonymize faces while keeping the "vibe" and semantic meaning of the scene intact.
+* Features automatic parameter fine-tuning and evaluation.
+* Research currently being co-authored for scientific publication with partners in Spain and Italy.
 
-#### [Browser FPS Engine]
-[cite_start]A first-person shooter developed with **JavaScript** and **Three.js**, focusing on high-performance real-time rendering[c.
-* Selected for the **UTS Tech Fest: Games Showcase** in Sydney.
-* 
+![Facial anonymization project](images/facial_anom.jpg)
+
+#### 🧬 Sperm Splash
+A cheeky fast-paced, first-person browser game built with **JavaScript** and **Three.js**. 
+* **The Twist:** You control a sperm cell on a high-stakes mission to find the egg.
+* 2 Levels: Obstacle Dodging and First-person shooter.
+* Focused on real-time rendering algorithms and smooth player mechanics.
+* Selected for the **[UTS Tech Fest: Games Showcase](https://showcase.gamesstudio.org/autumn-2025/)** in Sydney.
+* Click **[here]((https://drive.google.com/file/d/11v_VrIfis3DHuoMHTtqmJce_LdEvhJkj/view))** to check out how it works!
+
+![Browser FPS engine](images/threejs_game.png)
+
 ---
 
-### 🎨 Beyond Coding
-When I'm not optimizing model convergence or architecting web apps, you can find me:
-* Developing and experimenting with **analog photography**.
+### 🛠️ My Tech Toolbox
 
-### 📫 Connect with me:
-* **LinkedIn:** [linkedin.com/in/guillermo-ferreras](https://www.linkedin.com/in/guillermo-ferreras-468662351)
+| Category | Tools & Tech |
+| :--- | :--- |
+| **Favorite Languages** | Python, Java, C++, JavaScript, Kotlin |
+| **AI & Graphics** | VLMs, PyTorch, Diffusion, Scikit-learn, OpenCV, ComfyUI |
+| **Cloud & Ops** | AWS, GCP, Docker, Firebase, Git |
+
+---
+
+### 📸 When I'm Not Coding...
+You’ll likely find me:
+* **Taking pictures:** I'm a big fan of analog photography.
+* **Exploring:** Always up for the outdoors and new creative side projects.
+
+---
+
+### 📫 Let's connect!
+* **LinkedIn:** [Guillermo Ferreras](https://www.linkedin.com/in/guillermo-ferreras-468662351)
 
